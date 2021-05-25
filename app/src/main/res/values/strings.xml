@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">quiz</string>
+    <string name="quiz">QUIZ</string>
+    <string name="q1">Q1)How many sides do square have? </string>
+</resources>
